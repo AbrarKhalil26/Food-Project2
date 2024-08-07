@@ -1,0 +1,11 @@
+.logo {
+    @apply text-orange font-bold font-cursive;
+}
+
+.btn-primary {
+    @apply border border-gray-400 text-gray-500 py-2 px-4 rounded-full;
+}
+
+.btn-secondary {
+    @apply border border-orange bg-orange text-white py-2 px-8 rounded-full;
+}
